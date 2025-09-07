@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/suhanirath2114" target="blank"><img src="https://img.shields.io/twitter/follow/suhanirath2114?logo=twitter&style=for-the-badge" alt="suhanirath2114" /></a> </p>
 
-- 🌱 I’m currently learning **Backend development, CyberSecurity and DSA**
+- 🌱 I’m currently learning **Backend development,Machine Learning and DSA**
 
 - 📫 How to reach me **rathoresuhani29@gmail.com**
 
